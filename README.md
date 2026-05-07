@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 My name is **Matilda**, and I'm a Master's student at the **University of Turku**, specializing in **Medical Engineering and Health Technology** — so working with ECG data and signal analysis is part of my daily life!
+🎓 Hi, I'm **Matilda**! I'm graduating this month with a Master's degree in **Medical Engineering and Health Technology** from the **University of Turku**. Working with ECG data and biomedical signal analysis has been a central part of my studies and projects.
 
 🔬 I'm currently working as a **research assistant** at the [Materials Informatics Laboratory](https://sites.utu.fi/mil/). My research focuses on **AI-assisted density-functional theory (DFT) simulations** to develop atomic-level insights into the **adsorption of biomolecules** on **carbon-based nanomaterials**. This knowledge supports the development of highly sensitive and selective electrochemical sensors.
 
